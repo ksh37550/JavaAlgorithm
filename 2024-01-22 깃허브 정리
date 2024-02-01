@@ -3,3 +3,7 @@
 지금처럼 txt 파일을 사이트에서 올린 경우
 인텔리제이 터미널에서 push 할때 에러발생함
 한번 pull 로 땡겨주고 다시 push 하면 가능. String_3 반영시 에러났었음
+
+
+git pull origin master 
+
